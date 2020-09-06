@@ -68,6 +68,6 @@
 ## 💖 Support Me
 - 🌟 Click on Start button above the page
 - 🧧 Send red evelop through:
-  - <img src="https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white" title="Paypal" alt="Paypal"/> [phuchptty](paypal.me/phuchptty)
+  - [<img src="https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white" title="Paypal" alt="Paypal"/>](paypal.me/phuchptty)
 <br>
 **Donation will not refundable. Please think twice before do. Thank you !**
