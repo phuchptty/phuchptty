@@ -72,9 +72,9 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 106 Public Repositories
+> 📜 106 Public Repositories 
  > 
-> 🔑 5 Private Repositories 
+> 🔑 5 Private Repositories  
 
 **I'm an Early 🐤** 
 
