@@ -70,7 +70,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phuchptty&show_icons=true" alt="phuchptty" /></p>
 <br>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My Github Data** 
 
