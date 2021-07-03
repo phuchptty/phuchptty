@@ -70,7 +70,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phuchptty&show_icons=true" alt="phuchptty" /></p>
 <br>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My Github Data** 
 
@@ -138,7 +138,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/phuchptty/phuchptty/master/charts/bar_graph.png) 
 
 
- Last Updated on 02/07/2021
+ Last Updated on 03/07/2021
 <!--END_SECTION:waka-->
 
 <br><br>
