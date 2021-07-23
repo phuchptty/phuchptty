@@ -70,7 +70,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phuchptty&show_icons=true" alt="phuchptty" /></p>
 <br>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
 **🐱 My Github Data** 
 
@@ -113,11 +113,11 @@ Sunday       27 commits     ███████░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Vue.js                   5 hrs 6 mins        ███████████████░░░░░░░░░░   60.87% 
-JavaScript               1 hr 39 mins        █████░░░░░░░░░░░░░░░░░░░░   19.79% 
-JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.42% 
-PHP                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.64% 
-Git Config               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.15%
+Vue.js                   5 hrs 7 mins        ██████████████░░░░░░░░░░░   57.07% 
+JavaScript               1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.55% 
+JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.44% 
+TypeScript               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.86% 
+PHP                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.28%
 
 ```
 
@@ -138,7 +138,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/phuchptty/phuchptty/master/charts/bar_graph.png) 
 
 
- Last Updated on 22/07/2021
+ Last Updated on 23/07/2021
 <!--END_SECTION:waka-->
 
 <br><br>
