@@ -70,17 +70,17 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phuchptty&show_icons=true" alt="phuchptty" /></p>
 <br>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 68 Contributions in the Year 2021
+> 🏆 69 Contributions in the Year 2021
  > 
 > 📦 146.4 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 114 Public Repositories 
+> 📜 115 Public Repositories 
  > 
 > 🔑 9 Private Repositories  
  > 
@@ -138,7 +138,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/phuchptty/phuchptty/master/charts/bar_graph.png) 
 
 
- Last Updated on 24/07/2021
+ Last Updated on 25/07/2021
 <!--END_SECTION:waka-->
 
 <br><br>
