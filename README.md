@@ -12,6 +12,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=phuchptty" alt="phuchptty" /> </p>
 <br>
 
+# [phuchptty](https://github.com/phuchptty/phuchptty)
+<br>
+
 ## 💁‍♂️ Some infomations about me: <br>
 - 🧑 My real name: ***Dang Hoang Phuc***
 - 🎂 D.O.B: ***2001-07-03***
