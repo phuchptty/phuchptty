@@ -138,7 +138,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/phuchptty/phuchptty/master/charts/bar_graph.png) 
 
 
- Last Updated on 10/08/2021
+ Last Updated on 12/08/2021
 <!--END_SECTION:waka-->
 
 <br><br>
