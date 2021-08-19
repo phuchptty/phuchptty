@@ -74,9 +74,9 @@
 
 **🐱 My Github Data** 
 
-> 🏆 81 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2021
  > 
-> 📦 146.6 kB Used in Github's Storage 
+> 📦 146.7 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -138,7 +138,7 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/phuchptty/phuchptty/master/charts/bar_graph.png) 
 
 
- Last Updated on 18/08/2021
+ Last Updated on 19/08/2021
 <!--END_SECTION:waka-->
 
 <br><br>
