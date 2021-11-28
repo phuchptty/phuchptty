@@ -74,13 +74,13 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 221 Contributions in the Year 2021
+> 🏆 222 Contributions in the Year 2021
  > 
 > 📦 145.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 75 Public Repositories 
+> 📜 76 Public Repositories 
  > 
 > 🔑 10 Private Repositories  
  > 
@@ -138,7 +138,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/phuchptty/phuchptty/master/charts/bar_graph.png) 
 
 
- Last Updated on 27/11/2021
+ Last Updated on 28/11/2021
 <!--END_SECTION:waka-->
 
 <br><br>
