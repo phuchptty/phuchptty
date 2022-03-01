@@ -59,6 +59,10 @@
 
 ## 🧲 Recent Activities
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#1](https://github.com/phuchptty/phuchptty/pull/1) in [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)
+2. 🗣 Commented on [#1](https://github.com/phuchptty/phuchptty/issues/1) in [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)
+3. 💪 Opened PR [#157](https://github.com/raxod502/riju/pull/157) in [raxod502/riju](https://github.com/raxod502/riju)
+<!--END_SECTION:activity-->
 
 ## 📊 Profile Stats
 <p>
