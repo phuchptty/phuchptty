@@ -60,8 +60,6 @@
 ## 🧲 Recent Activities
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
-
 ## 📊 Profile Stats
 <p>
 	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuchptty&layout=compact&hide=html&theme=tokyonight&show_icons=true" alt="phuchptty" />
