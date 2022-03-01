@@ -1,30 +1,29 @@
 <h1 align="center">Hi 👋, I'm <a href="https://danghoangphuc.com" target="_blank">Lucas</a></h1>
 <h3 align="center">A developer from Viet Nam </h3>
-<br>
+
 <p align="center">
-	<a href="https://fb.com/hoangphuchotboy" target="blank"><img align="center" src="https://img.icons8.com/color/144/000000/facebook-new.png" alt="hoangphuchotboy" height="30" width="30" /></a>
-	<a href="https://instagram.com/_phuc_bay_bong_" target="blank"><img align="center" src="https://img.icons8.com/color/144/000000/instagram-new--v1.png" alt="_phuc_bay_bong_" height="30" width="30" /></a>
-	<a href="https://twitter.com/phuchptty" target="blank"><img align="center" src="https://img.icons8.com/color/144/000000/twitter--v2.png" alt="phuchptty" height="30" width="30" /></a>
-	<a href="https://linkedin.com/in/phuc-dev-b226351aa/" target="blank"><img align="center" src="https://img.icons8.com/color/144/000000/linkedin.png" alt="phuc-dev-b226351aa/" height="30" width="30" /></a>
-	<a href="https://www.hackerrank.com/phuchptty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="phuchptty" height="30" width="30" /></a>
+	<a href="https://fb.com/hoangphuchotboy" target="_blank"><img align="center" src="https://img.icons8.com/color/144/000000/facebook-new.png" alt="hoangphuchotboy" height="30" width="30" /></a>
+	<a href="https://www.instagram.com/_phuc_1001_/" target="_blank"><img align="center" src="https://img.icons8.com/color/144/000000/instagram-new--v1.png" alt="_phuc_bay_bong_" height="30" width="30" /></a>
+	<a href="https://www.linkedin.com/in/phuchptty/" target="_blank"><img align="center" src="https://img.icons8.com/color/144/000000/linkedin.png" alt="phuc-dev-b226351aa/" height="30" width="30" /></a>
+	<a href="https://discordapp.com/users/337843920966909953" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="phuchptty" height="30" width="30" /></a>
 </p>
+
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=phuchptty" alt="phuchptty" /> </p>
-<br>
 
 ## 💁‍♂️ Some infomations about me: <br>
 - 🧑 My real name: ***Dang Hoang Phuc***
 - 🎂 D.O.B: ***2001-07-03***
 - 🎓 I'm **a student** in [Academy of Cryptography Technicques](http://actvn.edu.vn/)
-- 👷‍♂️ I'm **a Web/App Developer and Researcher**
-- ⚡ I like ***coding, sleeping, listening to music especially vietnamese pop music, photography and camera***
+- 👷‍♂️ I'm **a Full-stack Developer**
+- ⚡ I like ***coding, sleeping, listening to music especially vietnamese/chinese pop music, photography and camera***
 - 🙌 I'm interested in:
-  - 🖼 Computer Vision / Deep Learning
+  - 🖼 Computer Vision
   - 🏡 IoT / Smart Home
+  - 🤖 Scripting & Automation
   - 💻 Computer Hardware
   - 📷 Photography
-- 📫 How to contact me ?: ***Facebook or Instagram above or send an email to [dhp@danghoangphuc.com](mailto:dhp@danghoangphuc.com)***
-<br><br>
+
 ## 💻 Workspace Spec:
 <p align="center">
 	<img src="https://img.shields.io/badge/Dell-Inspiron%205567-%23999999.svg?&style=for-the-badge&logo=dell&logoColor=white" title="Dell Inspiron 5567" alt="Dell Inspiron 5567"/>
@@ -41,8 +40,8 @@
 	<img src="https://img.shields.io/badge/Corsair-Vengeance%20PRO%20RGB%2032GB-yellow?&style=for-the-badge" title="CORSAIR Vengeance Pro 32gb" alt="CORSAIR Vengeance Pro 32gb"/>
 	<img src="https://img.shields.io/badge/SSD-Intel%20660P%20512GB-blue?&style=for-the-badge" title="Intel SSD 660P 521GB" alt="Intel SSD 660P 521GB"/>
 	<img src="https://img.shields.io/badge/HDD-Seagate%20Barracuda%202TB-green?&style=for-the-badge" title="Seagate Barracuda 2TB" alt="Seagate Barracuda 2TB"/>
+	<img src="https://img.shields.io/badge/HDD-Western%20Digital%20Purple%20500GB-purple?&style=for-the-badge" title="Western Digital Purple 500GB" alt="Western Digital Purple 500G"/>
 </p>
-<br><br>
 
 ## 🛠 Language and Tools: <br>
 <!--<code><img src="https://image.flaticon.com/icons/svg/919/919825.svg" width="50px" alt="Nodejs" title="Nodejs"/></code>
@@ -62,19 +61,19 @@
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
-<br><br>
 
 ## 📊 Profile Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuchptty&layout=compact&hide=html" alt="phuchptty" /></p>
+<p>
+	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuchptty&layout=compact&hide=html&theme=tokyonight&show_icons=true" alt="phuchptty" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phuchptty&show_icons=true" alt="phuchptty" /></p>
-<br>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phuchptty&theme=tokyonight&show_icons=true" alt="phuchptty" />
+</p>
+
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 66 Contributions in the Year 2022
+> 🏆 65 Contributions in the Year 2022
  > 
 > 📦 165.1 kB Used in GitHub's Storage 
  > 
@@ -87,22 +86,22 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    33 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.5% 
-🌆 Daytime    98 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.29% 
-🌃 Evening    148 commits    ███████░░░░░░░░░░░░░░░░░░   29.13% 
-🌙 Night      229 commits    ███████████░░░░░░░░░░░░░░   45.08%
+🌞 Morning    33 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.51% 
+🌆 Daytime    98 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.33% 
+🌃 Evening    147 commits    ███████░░░░░░░░░░░░░░░░░░   28.99% 
+🌙 Night      229 commits    ███████████░░░░░░░░░░░░░░   45.17%
 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       63 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.4% 
-Tuesday      60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.81% 
-Wednesday    76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.96% 
-Thursday     86 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.93% 
-Friday       71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.98% 
-Saturday     86 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.93% 
-Sunday       66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.99%
+Monday       63 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.43% 
+Tuesday      60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.83% 
+Wednesday    76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.99% 
+Thursday     86 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.96% 
+Friday       71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.0% 
+Saturday     85 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.77% 
+Sunday       66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.02%
 
 ```
 
@@ -138,13 +137,13 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/phuchptty/phuchptty/master/charts/bar_graph.png) 
 
 
- Last Updated on 01/03/2022 18:46:08 UTC
+ Last Updated on 28/02/2022 18:46:23 UTC
 <!--END_SECTION:waka-->
 
-<br><br>
-## 💖 Support Me
-- 🌟 Click on Start button above the page
-- 🧧 Send red envelop through:
-  - [<img src="https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white" title="Paypal" alt="Paypal"/>](https://paypal.me/phuchptty)
 <br>
-**Donation will not refundable. Please think twice before do. Thank you !**
+
+## 💖 Support
+- <a href="https://paypal.me/phuchptty" target="_blank"><img src="https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white" title="Paypal" alt="Paypal"/></a>
+- <a href="https://www.buymeacoffee.com/phuchptty" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 180px !important;" ></a>
+
+**Donation won't be refundable. Please think twice before do. Thank you 💘**
