@@ -72,7 +72,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C629%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C639%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -142,7 +142,7 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/phuchptty/phuchptty/master/charts/bar_graph.png) 
 
 
- Last Updated on 18/05/2022 18:51:44 UTC
+ Last Updated on 21/05/2022 18:49:53 UTC
 <!--END_SECTION:waka-->
 
 <br>
