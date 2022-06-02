@@ -59,9 +59,9 @@
 
 ## 🧲 Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Haven-Code/iKMA-frontend/pull/1) in [Haven-Code/iKMA-frontend](https://github.com/Haven-Code/iKMA-frontend)
-2. 🗣 Commented on [#1](https://github.com/phuchptty/phuchptty/issues/1) in [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)
-3. 💪 Opened PR [#157](https://github.com/raxod502/riju/pull/157) in [raxod502/riju](https://github.com/raxod502/riju)
+1. 💪 Opened PR [#1](https://github.com/arahiko-ayami/kma_score_api/pull/1) in [arahiko-ayami/kma_score_api](https://github.com/arahiko-ayami/kma_score_api)
+2. 🎉 Merged PR [#1](https://github.com/Haven-Code/kma_score_api/pull/1) in [Haven-Code/kma_score_api](https://github.com/Haven-Code/kma_score_api)
+3. 💪 Opened PR [#1](https://github.com/Haven-Code/kma_score_api/pull/1) in [Haven-Code/kma_score_api](https://github.com/Haven-Code/kma_score_api)
 <!--END_SECTION:activity-->
 
 ## 📊 Profile Stats
