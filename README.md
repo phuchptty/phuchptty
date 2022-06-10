@@ -8,7 +8,7 @@
 </p>
 
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=phuchptty" alt="phuchptty" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=phuchptty" alt="phuchptty" /> </p> -->
 
 ## 💁‍♂️ Some infomations about me: <br>
 - 🧑 My real name: ***Dang Hoang Phuc***
