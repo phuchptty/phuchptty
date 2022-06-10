@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm <a href="https://danghoangphuc.com" target="_blank">Lucas</a></h1>
-<h3 align="center">A developer from Viet Nam </h3>
 
 <p align="center">
 	<a href="https://fb.com/hoangphuchotboy" target="_blank"><img align="center" src="https://img.icons8.com/color/144/000000/facebook-new.png" alt="hoangphuchotboy" height="30" width="30" /></a>
@@ -14,24 +13,23 @@
 ## 💁‍♂️ Some infomations about me: <br>
 - 🧑 My real name: ***Dang Hoang Phuc***
 - 🎂 D.O.B: ***2001-07-03***
-- 🎓 I'm **a student** in [Academy of Cryptography Technicques](http://actvn.edu.vn/)
+- 🎓 I'm **a student** of [Academy of Cryptography Technicques](http://actvn.edu.vn/)
 - 👷‍♂️ I'm **a Full-stack Developer**
-- ⚡ I like ***coding, sleeping, listening to music especially vietnamese/chinese pop music, photography and camera***
+- ⚡ I like many things and can do many things
 - 🙌 I'm interested in:
   - 🖼 Computer Vision
-  - 🏡 IoT / Smart Home
+  - 🗺 Network & System
   - 🤖 Scripting & Automation
   - 💻 Computer Hardware
   - 📷 Photography
 
 ## 💻 Workspace Spec:
 <p align="center">
-	<img src="https://img.shields.io/badge/Dell-Inspiron%205567-%23999999.svg?&style=for-the-badge&logo=dell&logoColor=white" title="Dell Inspiron 5567" alt="Dell Inspiron 5567"/>
-	<img src="https://img.shields.io/badge/intel-Core%20i5%207200U-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" title="Intel Core i5-7200U" alt="Intel Core i5-7200U"/>
-	<img src="https://img.shields.io/badge/amd-Radeon%20R7%20M440%202GB-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white" title="AMD Radeon R7 M440" alt="AMD Radeon R7 M440"/>
-	<img src="https://img.shields.io/badge/RAM-8GB-yellow.svg?&style=for-the-badge" title="RAM 8GB" alt="RAM 8GB"/>
-	<img src="https://img.shields.io/badge/SSD-120GB-%23FEAA2D.svg?&style=for-the-badge" title="SSD 120GB" alt="SSD 120GB"/>
-	<img src="https://img.shields.io/badge/HDD-1TB-%23F16061.svg?&style=for-the-badge" title="HDD 1TB" alt="HDD 1TB"/>
+	<img src="https://img.shields.io/badge/asus-%20Tuf%20Dash%20F15%202022-%23FDC43E.svg?&style=for-the-badge&logo=asus&logoColor=white" title="Asus Tuf Dash F15 2022" alt="Asus Tuf Dash F15 2022"/>
+	<img src="https://img.shields.io/badge/intel-Core%20i5%2012450H-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" title="Intel Core i5-12450H" alt="Intel Core i5-12450H"/>
+	<img src="https://img.shields.io/badge/nvidia-RTX%203050-green.svg?&style=for-the-badge&logo=nvidia&logoColor=white" title="NVIDIA RTX 3050" alt="NVIDIA RTX 3050"/>
+	<img src="https://img.shields.io/badge/RAM-16GB-yellow.svg?&style=for-the-badge" title="RAM 16GB" alt="RAM 16GB"/>
+	<img src="https://img.shields.io/badge/SSD-1TB-%23FEAA2D.svg?&style=for-the-badge" title="SSD 1TB" alt="SSD 1TB"/>
 </p>
 <br>
 <p align="center">
