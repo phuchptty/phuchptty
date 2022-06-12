@@ -57,9 +57,9 @@
 
 ## 🧲 Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Haven-Code/kma_score_api/pull/4) in [Haven-Code/kma_score_api](https://github.com/Haven-Code/kma_score_api)
-2. 💪 Opened PR [#4](https://github.com/Haven-Code/kma_score_api/pull/4) in [Haven-Code/kma_score_api](https://github.com/Haven-Code/kma_score_api)
-3. 🎉 Merged PR [#3](https://github.com/Haven-Code/kma_score_api/pull/3) in [Haven-Code/kma_score_api](https://github.com/Haven-Code/kma_score_api)
+1. 🎉 Merged PR [#4](https://github.com/arahiko-ayami/kma_score_api/pull/4) in [arahiko-ayami/kma_score_api](https://github.com/arahiko-ayami/kma_score_api)
+2. 💪 Opened PR [#4](https://github.com/arahiko-ayami/kma_score_api/pull/4) in [arahiko-ayami/kma_score_api](https://github.com/arahiko-ayami/kma_score_api)
+3. 🎉 Merged PR [#4](https://github.com/Haven-Code/kma_score_api/pull/4) in [Haven-Code/kma_score_api](https://github.com/Haven-Code/kma_score_api)
 <!--END_SECTION:activity-->
 
 ## 📊 Profile Stats
