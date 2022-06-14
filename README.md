@@ -70,19 +70,19 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C750%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C754%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-62-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-59-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 359 Contributions in the Year 2022
+> 🏆 361 Contributions in the Year 2022
  > 
 > 📦 170.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 87 Public Repositories 
+> 📜 88 Public Repositories 
  > 
 > 🔑 15 Private Repositories  
  > 
@@ -99,11 +99,11 @@
 
 ```text
 Monday       66 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.8% 
-Tuesday      91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.89% 
+Tuesday      92 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.06% 
 Wednesday    92 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.06% 
 Thursday     125 commits    █████░░░░░░░░░░░░░░░░░░░░   20.46% 
 Friday       57 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.33% 
-Saturday     108 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.68% 
+Saturday     107 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.51% 
 Sunday       72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.78%
 
 ```
@@ -140,7 +140,7 @@ PHP                      3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/phuchptty/phuchptty/master/charts/bar_graph.png) 
 
 
- Last Updated on 12/06/2022 18:45:15 UTC
+ Last Updated on 14/06/2022 18:51:36 UTC
 <!--END_SECTION:waka-->
 
 <br>
