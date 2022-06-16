@@ -57,9 +57,9 @@
 
 ## 🧲 Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/ken-kuro/iKMA-frontend/pull/1) in [ken-kuro/iKMA-frontend](https://github.com/ken-kuro/iKMA-frontend)
-2. 🎉 Merged PR [#2](https://github.com/Haven-Code/iKMA-frontend/pull/2) in [Haven-Code/iKMA-frontend](https://github.com/Haven-Code/iKMA-frontend)
-3. 🎉 Merged PR [#1](https://github.com/Haven-Code/nct-sdk-php-v3/pull/1) in [Haven-Code/nct-sdk-php-v3](https://github.com/Haven-Code/nct-sdk-php-v3)
+1. 🗣 Commented on [#17](https://github.com/ToaHartor/GI-cutscenes/issues/17) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
+2. 💪 Opened PR [#1](https://github.com/ken-kuro/iKMA-frontend/pull/1) in [ken-kuro/iKMA-frontend](https://github.com/ken-kuro/iKMA-frontend)
+3. 🎉 Merged PR [#2](https://github.com/Haven-Code/iKMA-frontend/pull/2) in [Haven-Code/iKMA-frontend](https://github.com/Haven-Code/iKMA-frontend)
 <!--END_SECTION:activity-->
 
 ## 📊 Profile Stats
