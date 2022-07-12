@@ -57,9 +57,9 @@
 
 ## 🧲 Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/ToaHartor/GI-cutscenes/pull/22) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
-2. 🗣 Commented on [#21](https://github.com/ToaHartor/GI-cutscenes/issues/21) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
-3. 💪 Opened PR [#16](https://github.com/Grasscutters/Cultivation/pull/16) in [Grasscutters/Cultivation](https://github.com/Grasscutters/Cultivation)
+1. 💪 Opened PR [#8](https://github.com/SuperZombi/GICutscenesUI/pull/8) in [SuperZombi/GICutscenesUI](https://github.com/SuperZombi/GICutscenesUI)
+2. 💪 Opened PR [#22](https://github.com/ToaHartor/GI-cutscenes/pull/22) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
+3. 🗣 Commented on [#21](https://github.com/ToaHartor/GI-cutscenes/issues/21) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
 <!--END_SECTION:activity-->
 
 ## 📊 Profile Stats
