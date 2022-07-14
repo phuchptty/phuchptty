@@ -57,9 +57,9 @@
 
 ## 🧲 Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/ToaHartor/GI-cutscenes/issues/24) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
+1. ❗️ Opened issue [#25](https://github.com/ToaHartor/GI-cutscenes/issues/25) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
 2. 🗣 Commented on [#24](https://github.com/ToaHartor/GI-cutscenes/issues/24) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
-3. 💪 Opened PR [#8](https://github.com/SuperZombi/GICutscenesUI/pull/8) in [SuperZombi/GICutscenesUI](https://github.com/SuperZombi/GICutscenesUI)
+3. 🗣 Commented on [#24](https://github.com/ToaHartor/GI-cutscenes/issues/24) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
 <!--END_SECTION:activity-->
 
 ## 📊 Profile Stats
