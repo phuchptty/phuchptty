@@ -57,9 +57,9 @@
 
 ## 🧲 Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#27](https://github.com/ToaHartor/GI-cutscenes/pull/27) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
-2. ❗️ Opened issue [#5](https://github.com/Akebi-Group/Akebi-PacketSniffer/issues/5) in [Akebi-Group/Akebi-PacketSniffer](https://github.com/Akebi-Group/Akebi-PacketSniffer)
-3. ❗️ Closed issue [#25](https://github.com/ToaHartor/GI-cutscenes/issues/25) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
+1. 🗣 Commented on [#27](https://github.com/ToaHartor/GI-cutscenes/issues/27) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
+2. 💪 Opened PR [#27](https://github.com/ToaHartor/GI-cutscenes/pull/27) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
+3. ❗️ Opened issue [#5](https://github.com/Akebi-Group/Akebi-PacketSniffer/issues/5) in [Akebi-Group/Akebi-PacketSniffer](https://github.com/Akebi-Group/Akebi-PacketSniffer)
 <!--END_SECTION:activity-->
 
 ## 📊 Profile Stats
