@@ -59,7 +59,7 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#27](https://github.com/ToaHartor/GI-cutscenes/issues/27) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
 2. 🗣 Commented on [#27](https://github.com/ToaHartor/GI-cutscenes/issues/27) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
-3. 💪 Opened PR [#27](https://github.com/ToaHartor/GI-cutscenes/pull/27) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
+3. 🗣 Commented on [#27](https://github.com/ToaHartor/GI-cutscenes/issues/27) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
 <!--END_SECTION:activity-->
 
 ## 📊 Profile Stats
