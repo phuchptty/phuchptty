@@ -57,7 +57,7 @@
 
 ## 🧲 Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/ToaHartor/GI-cutscenes/issues/27) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
+1. 🗣 Commented on [#20](https://github.com/Crepe-Inc/CrepeSR/issues/20) in [Crepe-Inc/CrepeSR](https://github.com/Crepe-Inc/CrepeSR)
 2. 🗣 Commented on [#27](https://github.com/ToaHartor/GI-cutscenes/issues/27) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
 3. 🗣 Commented on [#27](https://github.com/ToaHartor/GI-cutscenes/issues/27) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
 <!--END_SECTION:activity-->
