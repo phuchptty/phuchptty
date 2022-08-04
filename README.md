@@ -57,9 +57,9 @@
 
 ## 🧲 Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#45](https://github.com/Crepe-Inc/CrepeSR/pull/45) in [Crepe-Inc/CrepeSR](https://github.com/Crepe-Inc/CrepeSR)
-2. 💪 Opened PR [#33](https://github.com/Crepe-Inc/CrepeSR/pull/33) in [Crepe-Inc/CrepeSR](https://github.com/Crepe-Inc/CrepeSR)
-3. 🗣 Commented on [#20](https://github.com/Crepe-Inc/CrepeSR/issues/20) in [Crepe-Inc/CrepeSR](https://github.com/Crepe-Inc/CrepeSR)
+1. 🗣 Commented on [#45](https://github.com/Crepe-Inc/CrepeSR/issues/45) in [Crepe-Inc/CrepeSR](https://github.com/Crepe-Inc/CrepeSR)
+2. 💪 Opened PR [#45](https://github.com/Crepe-Inc/CrepeSR/pull/45) in [Crepe-Inc/CrepeSR](https://github.com/Crepe-Inc/CrepeSR)
+3. 💪 Opened PR [#33](https://github.com/Crepe-Inc/CrepeSR/pull/33) in [Crepe-Inc/CrepeSR](https://github.com/Crepe-Inc/CrepeSR)
 <!--END_SECTION:activity-->
 
 ## 📊 Profile Stats
