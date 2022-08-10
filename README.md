@@ -57,9 +57,9 @@
 
 ## 🧲 Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#68](https://github.com/Crepe-Inc/CrepeSR/issues/68) in [Crepe-Inc/CrepeSR](https://github.com/Crepe-Inc/CrepeSR)
-2. 🗣 Commented on [#29](https://github.com/ToaHartor/GI-cutscenes/issues/29) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
-3. 💪 Opened PR [#53](https://github.com/Crepe-Inc/CrepeSR/pull/53) in [Crepe-Inc/CrepeSR](https://github.com/Crepe-Inc/CrepeSR)
+1. 🗣 Commented on [#65](https://github.com/Crepe-Inc/CrepeSR/issues/65) in [Crepe-Inc/CrepeSR](https://github.com/Crepe-Inc/CrepeSR)
+2. 🗣 Commented on [#68](https://github.com/Crepe-Inc/CrepeSR/issues/68) in [Crepe-Inc/CrepeSR](https://github.com/Crepe-Inc/CrepeSR)
+3. 🗣 Commented on [#29](https://github.com/ToaHartor/GI-cutscenes/issues/29) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
 <!--END_SECTION:activity-->
 
 ## 📊 Profile Stats
