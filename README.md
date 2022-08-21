@@ -57,9 +57,9 @@
 
 ## 🧲 Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/ToaHartor/GI-cutscenes/issues/13) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
-2. 🗣 Commented on [#65](https://github.com/Crepe-Inc/CrepeSR/issues/65) in [Crepe-Inc/CrepeSR](https://github.com/Crepe-Inc/CrepeSR)
-3. 🗣 Commented on [#68](https://github.com/Crepe-Inc/CrepeSR/issues/68) in [Crepe-Inc/CrepeSR](https://github.com/Crepe-Inc/CrepeSR)
+1. 🎉 Merged PR [#4](https://github.com/Haven-Code/KMA-Score-Extractor/pull/4) in [Haven-Code/KMA-Score-Extractor](https://github.com/Haven-Code/KMA-Score-Extractor)
+2. 💪 Opened PR [#4](https://github.com/Haven-Code/KMA-Score-Extractor/pull/4) in [Haven-Code/KMA-Score-Extractor](https://github.com/Haven-Code/KMA-Score-Extractor)
+3. 🗣 Commented on [#13](https://github.com/ToaHartor/GI-cutscenes/issues/13) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
 <!--END_SECTION:activity-->
 
 ## 📊 Profile Stats
