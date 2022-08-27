@@ -57,9 +57,9 @@
 
 ## 🧲 Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/ToaHartor/GI-cutscenes/issues/36) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
+1. ❗️ Opened issue [#142](https://github.com/biuuu/genshin-wish-export/issues/142) in [biuuu/genshin-wish-export](https://github.com/biuuu/genshin-wish-export)
 2. 🗣 Commented on [#36](https://github.com/ToaHartor/GI-cutscenes/issues/36) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
-3. 🗣 Commented on [#35](https://github.com/ToaHartor/GI-cutscenes/issues/35) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
+3. 🗣 Commented on [#36](https://github.com/ToaHartor/GI-cutscenes/issues/36) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
 <!--END_SECTION:activity-->
 
 ## 📊 Profile Stats
