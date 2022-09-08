@@ -57,9 +57,9 @@
 
 ## 🧲 Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#142](https://github.com/biuuu/genshin-wish-export/issues/142) in [biuuu/genshin-wish-export](https://github.com/biuuu/genshin-wish-export)
-2. 🗣 Commented on [#36](https://github.com/ToaHartor/GI-cutscenes/issues/36) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
-3. 💪 Opened PR [#1728](https://github.com/Grasscutters/Grasscutter/pull/1728) in [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter)
+1. 🗣 Commented on [#29](https://github.com/ToaHartor/GI-cutscenes/issues/29) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
+2. 🗣 Commented on [#142](https://github.com/biuuu/genshin-wish-export/issues/142) in [biuuu/genshin-wish-export](https://github.com/biuuu/genshin-wish-export)
+3. 🗣 Commented on [#36](https://github.com/ToaHartor/GI-cutscenes/issues/36) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
 <!--END_SECTION:activity-->
 
 ## 📊 Profile Stats
