@@ -70,22 +70,59 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C076%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C089%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 653 Contributions in the Year 2022
+> 🏆 662 Contributions in the Year 2022
  > 
-> 📦 175.9 kB Used in GitHub's Storage 
+> 📦 176.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 90 Public Repositories 
+> 📜 60 Public Repositories 
  > 
 > 🔑 22 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    45 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.73% 
+🌆 Daytime    267 commits    ████████░░░░░░░░░░░░░░░░░   34.01% 
+🌃 Evening    165 commits    █████░░░░░░░░░░░░░░░░░░░░   21.02% 
+🌙 Night      308 commits    █████████░░░░░░░░░░░░░░░░   39.24%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       117 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.9% 
+Tuesday      130 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.56% 
+Wednesday    92 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.72% 
+Thursday     157 commits    █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Friday       92 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.72% 
+Saturday     110 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.01% 
+Sunday       87 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.08%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+TypeScript               20 hrs 42 mins      ███████████████░░░░░░░░░░   62.44% 
+JavaScript               4 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.95% 
+YAML                     2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.39% 
+JSON                     1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.65% 
+C#                       1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.24%
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -103,7 +140,7 @@ Python                   4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/phuchptty/phuchptty/master/charts/bar_graph.png) 
 
 
- Last Updated on 15/09/2022 18:54:43 UTC
+ Last Updated on 18/09/2022 18:53:46 UTC
 <!--END_SECTION:waka-->
 
 <br>
