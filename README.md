@@ -57,9 +57,9 @@
 
 ## 🧲 Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1826](https://github.com/Grasscutters/Grasscutter/pull/1826) in [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter)
-2. 🗣 Commented on [#42](https://github.com/ToaHartor/GI-cutscenes/issues/42) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
-3. 🗣 Commented on [#43](https://github.com/ToaHartor/GI-cutscenes/issues/43) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
+1. 🗣 Commented on [#1826](https://github.com/Grasscutters/Grasscutter/issues/1826) in [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter)
+2. 💪 Opened PR [#1826](https://github.com/Grasscutters/Grasscutter/pull/1826) in [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter)
+3. 🗣 Commented on [#42](https://github.com/ToaHartor/GI-cutscenes/issues/42) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
 <!--END_SECTION:activity-->
 
 ## 📊 Profile Stats
