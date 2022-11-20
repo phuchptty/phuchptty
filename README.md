@@ -57,9 +57,9 @@
 
 ## 🧲 Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#63](https://github.com/ToaHartor/GI-cutscenes/issues/63) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
+1. 🗣 Commented on [#65](https://github.com/ToaHartor/GI-cutscenes/issues/65) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
 2. 🗣 Commented on [#63](https://github.com/ToaHartor/GI-cutscenes/issues/63) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
-3. 🎉 Merged PR [#5](https://github.com/arahiko-ayami/kma_score_api/pull/5) in [arahiko-ayami/kma_score_api](https://github.com/arahiko-ayami/kma_score_api)
+3. 🗣 Commented on [#63](https://github.com/ToaHartor/GI-cutscenes/issues/63) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
 <!--END_SECTION:activity-->
 
 ## 📊 Profile Stats
