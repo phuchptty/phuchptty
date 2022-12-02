@@ -57,9 +57,9 @@
 
 ## 🧲 Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/KMA-Score/kma_score/pull/11) in [KMA-Score/kma_score](https://github.com/KMA-Score/kma_score)
-2. 🗣 Commented on [#11](https://github.com/KMA-Score/kma_score/issues/11) in [KMA-Score/kma_score](https://github.com/KMA-Score/kma_score)
-3. 💪 Opened PR [#11](https://github.com/KMA-Score/kma_score/pull/11) in [KMA-Score/kma_score](https://github.com/KMA-Score/kma_score)
+1. 🎉 Merged PR [#6](https://github.com/KMA-Score/kma_score_api/pull/6) in [KMA-Score/kma_score_api](https://github.com/KMA-Score/kma_score_api)
+2. 💪 Opened PR [#6](https://github.com/KMA-Score/kma_score_api/pull/6) in [KMA-Score/kma_score_api](https://github.com/KMA-Score/kma_score_api)
+3. 🎉 Merged PR [#16](https://github.com/KMA-Score/kma_score/pull/16) in [KMA-Score/kma_score](https://github.com/KMA-Score/kma_score)
 <!--END_SECTION:activity-->
 
 ## 📊 Profile Stats
