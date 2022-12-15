@@ -57,9 +57,9 @@
 
 ## 🧲 Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/WeedwackerPS/Weedwacker/issues/11) in [WeedwackerPS/Weedwacker](https://github.com/WeedwackerPS/Weedwacker)
-2. 💪 Opened PR [#13](https://github.com/WeedwackerPS/Weedwacker/pull/13) in [WeedwackerPS/Weedwacker](https://github.com/WeedwackerPS/Weedwacker)
-3. 🎉 Merged PR [#6](https://github.com/KMA-Score/kma_score_api/pull/6) in [KMA-Score/kma_score_api](https://github.com/KMA-Score/kma_score_api)
+1. 🎉 Merged PR [#18](https://github.com/KMA-Score/kma_score/pull/18) in [KMA-Score/kma_score](https://github.com/KMA-Score/kma_score)
+2. 💪 Opened PR [#18](https://github.com/KMA-Score/kma_score/pull/18) in [KMA-Score/kma_score](https://github.com/KMA-Score/kma_score)
+3. 🗣 Commented on [#11](https://github.com/WeedwackerPS/Weedwacker/issues/11) in [WeedwackerPS/Weedwacker](https://github.com/WeedwackerPS/Weedwacker)
 <!--END_SECTION:activity-->
 
 ## 📊 Profile Stats
