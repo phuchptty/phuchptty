@@ -57,9 +57,9 @@
 
 ## 🧲 Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#26](https://github.com/WeedwackerPS/Weedwacker/pull/26) in [WeedwackerPS/Weedwacker](https://github.com/WeedwackerPS/Weedwacker)
-2. 🗣 Commented on [#70](https://github.com/ToaHartor/GI-cutscenes/issues/70) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
-3. 🗣 Commented on [#69](https://github.com/ToaHartor/GI-cutscenes/issues/69) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
+1. 🗣 Commented on [#70](https://github.com/ToaHartor/GI-cutscenes/issues/70) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
+2. 🗣 Commented on [#69](https://github.com/ToaHartor/GI-cutscenes/issues/69) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
+3. 🎉 Merged PR [#18](https://github.com/KMA-Score/kma_score/pull/18) in [KMA-Score/kma_score](https://github.com/KMA-Score/kma_score)
 <!--END_SECTION:activity-->
 
 ## 📊 Profile Stats
