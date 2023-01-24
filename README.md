@@ -70,13 +70,13 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C686%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C687%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 19 Contributions in the Year 2023
+> 🏆 20 Contributions in the Year 2023
  > 
 > 📦 183.1 kB Used in GitHub's Storage 
  > 
@@ -115,11 +115,11 @@ Sunday       125 commits    ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-PHP                      9 hrs 1 min         █████████████░░░░░░░░░░░░   51.98% 
-YAML                     3 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   22.08% 
-TypeScript               2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.36% 
-JSON                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.86% 
-JavaScript               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.72%
+PHP                      9 hrs 44 mins       ██████████████████░░░░░░░   74.36% 
+TypeScript               57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.27% 
+YAML                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.3% 
+CSS                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.24% 
+JavaScript               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.21%
 
 ```
 
@@ -140,7 +140,7 @@ PHP                      4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/phuchptty/phuchptty/master/charts/bar_graph.png) 
 
 
- Last Updated on 23/01/2023 18:43:47 UTC
+ Last Updated on 24/01/2023 18:45:33 UTC
 <!--END_SECTION:waka-->
 
 <br>
