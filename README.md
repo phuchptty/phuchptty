@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://danghoangphuc.com" target="_blank">Lucas</a></h1>
 
 <p align="center">
-	<a href="https://fb.com/hoangphuchotboy" target="_blank"><img align="center" src="https://img.icons8.com/color/144/000000/facebook-new.png" alt="hoangphuchotboy" height="30" width="30" /></a>
-	<a href="https://www.instagram.com/_phuc_1001_/" target="_blank"><img align="center" src="https://img.icons8.com/color/144/000000/instagram-new--v1.png" alt="_phuc_bay_bong_" height="30" width="30" /></a>
-	<a href="https://www.linkedin.com/in/phuchptty/" target="_blank"><img align="center" src="https://img.icons8.com/color/144/000000/linkedin.png" alt="phuc-dev-b226351aa/" height="30" width="30" /></a>
 	<a href="https://discordapp.com/users/337843920966909953" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="phuchptty" height="30" width="30" /></a>
 </p>
 
