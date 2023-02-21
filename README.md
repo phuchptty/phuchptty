@@ -8,7 +8,7 @@
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=phuchptty" alt="phuchptty" /> </p> -->
 
 ## 💁‍♂️ Some infomations about me: <br>
-- 🎂 D.O.B: ***2001-07-03***
+- 🎂 D.O.B: ***xxxx-07-03***
 - 🎓 I'm **a student** of [Academy of Cryptography Technicques](http://actvn.edu.vn/)
 - 👷‍♂️ I'm **a Full-stack Developer**
 - ⚡ I like many things and can do many things
