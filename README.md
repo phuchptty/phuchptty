@@ -53,11 +53,11 @@
 
 ## 🧲 Recent Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+1. ⭐ Starred [nguyenvanduocit/ai-commit](https://github.com/nguyenvanduocit/ai-commit)<br>
 2. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
-3. ⬆️ Pushed 2 commit(s) to [Haven-Code/kma_score_api](https://github.com/Haven-Code/kma_score_api)<br>
-4. ⬆️ Pushed 8 commit(s) to [Haven-Code/kma_score_api](https://github.com/Haven-Code/kma_score_api)<br>
-5. ⬆️ Pushed 1 commit(s) to [phuchptty/eStore](https://github.com/phuchptty/eStore)<br>
+3. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+4. ⬆️ Pushed 2 commit(s) to [Haven-Code/kma_score_api](https://github.com/Haven-Code/kma_score_api)<br>
+5. ⬆️ Pushed 8 commit(s) to [Haven-Code/kma_score_api](https://github.com/Haven-Code/kma_score_api)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Profile Stats
