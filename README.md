@@ -53,11 +53,11 @@
 
 ## 🧲 Recent Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KMA-Score/kma_score](https://github.com/KMA-Score/kma_score)<br>
-2. 🎉 Merged PR [#21](https://github.com/KMA-Score/kma_score/pull/21) in [KMA-Score/kma_score](https://github.com/KMA-Score/kma_score)<br>
-3. 💪 Opened PR [#21](https://github.com/KMA-Score/kma_score/pull/21) in [KMA-Score/kma_score](https://github.com/KMA-Score/kma_score)<br>
-4. ⬆️ Pushed 1 commit(s) to [KMA-Score/kma_score_api](https://github.com/KMA-Score/kma_score_api)<br>
-5. 🎉 Merged PR [#17](https://github.com/KMA-Score/kma_score_api/pull/17) in [KMA-Score/kma_score_api](https://github.com/KMA-Score/kma_score_api)<br>
+1. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+2. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+3. ⬆️ Pushed 1 commit(s) to [KMA-Score/kma_score](https://github.com/KMA-Score/kma_score)<br>
+4. 🎉 Merged PR [#21](https://github.com/KMA-Score/kma_score/pull/21) in [KMA-Score/kma_score](https://github.com/KMA-Score/kma_score)<br>
+5. 💪 Opened PR [#21](https://github.com/KMA-Score/kma_score/pull/21) in [KMA-Score/kma_score](https://github.com/KMA-Score/kma_score)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Profile Stats
