@@ -53,11 +53,11 @@
 
 ## 🧲 Recent Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [Haven-Code/kma_score](https://github.com/Haven-Code/kma_score)<br>
-2. ⬆️ Pushed 1 commit(s) to [KMA-Score/kma_score_api](https://github.com/KMA-Score/kma_score_api)<br>
-3. 🎉 Merged PR [#16](https://github.com/KMA-Score/kma_score_api/pull/16) in [KMA-Score/kma_score_api](https://github.com/KMA-Score/kma_score_api)<br>
-4. 💪 Opened PR [#16](https://github.com/KMA-Score/kma_score_api/pull/16) in [KMA-Score/kma_score_api](https://github.com/KMA-Score/kma_score_api)<br>
-5. ⬆️ Pushed 1 commit(s) to [Haven-Code/kma_score_api](https://github.com/Haven-Code/kma_score_api)<br>
+1. ⬆️ Pushed 1 commit(s) to [KMA-Score/kma_score](https://github.com/KMA-Score/kma_score)<br>
+2. 🎉 Merged PR [#21](https://github.com/KMA-Score/kma_score/pull/21) in [KMA-Score/kma_score](https://github.com/KMA-Score/kma_score)<br>
+3. 💪 Opened PR [#21](https://github.com/KMA-Score/kma_score/pull/21) in [KMA-Score/kma_score](https://github.com/KMA-Score/kma_score)<br>
+4. ⬆️ Pushed 1 commit(s) to [KMA-Score/kma_score_api](https://github.com/KMA-Score/kma_score_api)<br>
+5. 🎉 Merged PR [#17](https://github.com/KMA-Score/kma_score_api/pull/17) in [KMA-Score/kma_score_api](https://github.com/KMA-Score/kma_score_api)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Profile Stats
