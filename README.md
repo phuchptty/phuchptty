@@ -53,11 +53,11 @@
 
 ## 🧲 Recent Activities
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [Implement Api Key](https://github.com/KMA-Score/kma_score_api/releases/tag/v1.1) in [KMA-Score/kma_score_api](https://github.com/KMA-Score/kma_score_api)<br>
-2. ✌️ Released [Implement Api Key](https://github.com/KMA-Score/kma_score_api/releases/tag/v1.1) in [KMA-Score/kma_score_api](https://github.com/KMA-Score/kma_score_api)<br>
+1. ⬆️ Pushed 1 commit(s) to [KMA-Score/kma_score_api](https://github.com/KMA-Score/kma_score_api)<br>
+2. ⬆️ Pushed 1 commit(s) to [KMA-Score/kma_score_api](https://github.com/KMA-Score/kma_score_api)<br>
 3. ⬆️ Pushed 1 commit(s) to [KMA-Score/kma_score_api](https://github.com/KMA-Score/kma_score_api)<br>
 4. ✌️ Released [Implement Api Key](https://github.com/KMA-Score/kma_score_api/releases/tag/v1.1) in [KMA-Score/kma_score_api](https://github.com/KMA-Score/kma_score_api)<br>
-5. ⬆️ Pushed 1 commit(s) to [KMA-Score/kma_score_api](https://github.com/KMA-Score/kma_score_api)<br>
+5. ✌️ Released [Implement Api Key](https://github.com/KMA-Score/kma_score_api/releases/tag/v1.1) in [KMA-Score/kma_score_api](https://github.com/KMA-Score/kma_score_api)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Profile Stats
