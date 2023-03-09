@@ -55,9 +55,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
 2. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
-3. ⬆️ Pushed 5 commit(s) to [KMA-Score/kma_score](https://github.com/KMA-Score/kma_score)<br>
-4. 🎉 Merged PR [#22](https://github.com/KMA-Score/kma_score/pull/22) in [KMA-Score/kma_score](https://github.com/KMA-Score/kma_score)<br>
-5. 💪 Opened PR [#22](https://github.com/KMA-Score/kma_score/pull/22) in [KMA-Score/kma_score](https://github.com/KMA-Score/kma_score)<br>
+3. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+4. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+5. ⬆️ Pushed 5 commit(s) to [KMA-Score/kma_score](https://github.com/KMA-Score/kma_score)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Profile Stats
