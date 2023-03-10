@@ -57,7 +57,7 @@
 2. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
 3. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
 4. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
-5. ⬆️ Pushed 5 commit(s) to [KMA-Score/kma_score](https://github.com/KMA-Score/kma_score)<br>
+5. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Profile Stats
