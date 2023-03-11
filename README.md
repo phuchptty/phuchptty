@@ -68,7 +68,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C861%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C862%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -76,7 +76,7 @@
 
 > 📦 182.0 kB Used in GitHub's Storage 
  > 
-> 🏆 153 Contributions in the Year 2023
+> 🏆 154 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -111,11 +111,11 @@ Sunday                   198 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               10 hrs 39 mins      ████████░░░░░░░░░░░░░░░░░   32.98 % 
-PHP                      7 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
-Blade Template           4 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-Go                       2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-Python                   1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+TypeScript               9 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   35.40 % 
+PHP                      3 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Blade Template           2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+Go                       2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+JSON                     1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -135,7 +135,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/phuchptty/phuchptty/master/assets/bar_graph.png)
 
 
- Last Updated on 10/03/2023 18:40:54 UTC
+ Last Updated on 11/03/2023 18:39:24 UTC
 <!--END_SECTION:waka-->
 
 <br>
