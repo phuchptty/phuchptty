@@ -53,11 +53,11 @@
 
 ## 🧲 Recent Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Everduin94/better-commits](https://github.com/Everduin94/better-commits)<br>
-2. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
-3. ⭐ Starred [Tony133/nestjs-knexjs](https://github.com/Tony133/nestjs-knexjs)<br>
-4. ⬆️ Pushed 1 commit(s) to [KMA-Score/KMA-Score-Extractor](https://github.com/KMA-Score/KMA-Score-Extractor)<br>
-5. ⭐ Starred [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)<br>
+1. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+2. ⭐ Starred [Everduin94/better-commits](https://github.com/Everduin94/better-commits)<br>
+3. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+4. ⭐ Starred [Tony133/nestjs-knexjs](https://github.com/Tony133/nestjs-knexjs)<br>
+5. ⬆️ Pushed 1 commit(s) to [KMA-Score/KMA-Score-Extractor](https://github.com/KMA-Score/KMA-Score-Extractor)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Profile Stats
