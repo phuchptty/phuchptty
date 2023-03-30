@@ -53,11 +53,11 @@
 
 ## 🧲 Recent Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 62 commit(s) to [phuchptty/GI-cutscenes](https://github.com/phuchptty/GI-cutscenes)<br>
-2. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+1. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+2. ⬆️ Pushed 62 commit(s) to [phuchptty/GI-cutscenes](https://github.com/phuchptty/GI-cutscenes)<br>
 3. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
-4. ⭐ Starred [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks)<br>
-5. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+4. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+5. ⭐ Starred [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Profile Stats
