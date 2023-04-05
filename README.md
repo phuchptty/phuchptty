@@ -53,10 +53,10 @@
 
 ## 🧲 Recent Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [elysiajs/eden](https://github.com/elysiajs/eden)<br>
-2. ⭐ Starred [elysiajs/elysia](https://github.com/elysiajs/elysia)<br>
-3. ⭐ Starred [undertheseanlp/underthesea](https://github.com/undertheseanlp/underthesea)<br>
-4. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+1. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+2. ⭐ Starred [elysiajs/eden](https://github.com/elysiajs/eden)<br>
+3. ⭐ Starred [elysiajs/elysia](https://github.com/elysiajs/elysia)<br>
+4. ⭐ Starred [undertheseanlp/underthesea](https://github.com/undertheseanlp/underthesea)<br>
 5. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
 <!--RECENT_ACTIVITY:end-->
 
