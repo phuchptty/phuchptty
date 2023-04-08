@@ -53,11 +53,11 @@
 
 ## 🧲 Recent Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+1. ⭐ Starred [Nutlope/aicommits](https://github.com/Nutlope/aicommits)<br>
 2. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
-3. ⭐ Starred [spacebarchat/spacebarchat](https://github.com/spacebarchat/spacebarchat)<br>
-4. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
-5. ⭐ Starred [elysiajs/eden](https://github.com/elysiajs/eden)<br>
+3. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+4. ⭐ Starred [spacebarchat/spacebarchat](https://github.com/spacebarchat/spacebarchat)<br>
+5. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Profile Stats
