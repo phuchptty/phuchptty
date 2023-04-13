@@ -55,9 +55,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
 2. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
-3. ⭐ Starred [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)<br>
-4. ⭐ Starred [angristan/wireguard-install](https://github.com/angristan/wireguard-install)<br>
-5. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+3. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+4. ⭐ Starred [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)<br>
+5. ⭐ Starred [angristan/wireguard-install](https://github.com/angristan/wireguard-install)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Profile Stats
