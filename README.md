@@ -53,11 +53,11 @@
 
 ## 🧲 Recent Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Dimbreath/StarRailData](https://github.com/Dimbreath/StarRailData)<br>
-2. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+1. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+2. ⭐ Starred [Dimbreath/StarRailData](https://github.com/Dimbreath/StarRailData)<br>
 3. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
-4. ⭐ Starred [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors)<br>
-5. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+4. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+5. ⭐ Starred [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Profile Stats
