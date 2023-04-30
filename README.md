@@ -53,10 +53,10 @@
 
 ## 🧲 Recent Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [onethawt/idaplugins-list](https://github.com/onethawt/idaplugins-list)<br>
-2. ⭐ Starred [sibears/IDAGolangHelper](https://github.com/sibears/IDAGolangHelper)<br>
-3. ⭐ Starred [tacnetsol/ida](https://github.com/tacnetsol/ida)<br>
-4. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+1. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+2. ⭐ Starred [onethawt/idaplugins-list](https://github.com/onethawt/idaplugins-list)<br>
+3. ⭐ Starred [sibears/IDAGolangHelper](https://github.com/sibears/IDAGolangHelper)<br>
+4. ⭐ Starred [tacnetsol/ida](https://github.com/tacnetsol/ida)<br>
 5. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
 <!--RECENT_ACTIVITY:end-->
 
