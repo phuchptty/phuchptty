@@ -53,11 +53,11 @@
 
 ## 🧲 Recent Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+1. ⭐ Starred [biuuu/star-rail-warp-export](https://github.com/biuuu/star-rail-warp-export)<br>
 2. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
-3. ⭐ Starred [onethawt/idaplugins-list](https://github.com/onethawt/idaplugins-list)<br>
-4. ⭐ Starred [sibears/IDAGolangHelper](https://github.com/sibears/IDAGolangHelper)<br>
-5. ⭐ Starred [tacnetsol/ida](https://github.com/tacnetsol/ida)<br>
+3. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+4. ⭐ Starred [onethawt/idaplugins-list](https://github.com/onethawt/idaplugins-list)<br>
+5. ⭐ Starred [sibears/IDAGolangHelper](https://github.com/sibears/IDAGolangHelper)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Profile Stats
