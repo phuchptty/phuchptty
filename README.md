@@ -53,11 +53,11 @@
 
 ## 🧲 Recent Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
-2. ⭐ Starred [Razmoth/MetadataConverter2](https://github.com/Razmoth/MetadataConverter2)<br>
-3. ⭐ Starred [biuuu/star-rail-warp-export](https://github.com/biuuu/star-rail-warp-export)<br>
-4. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
-5. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+1. ⭐ Starred [Infisical/infisical](https://github.com/Infisical/infisical)<br>
+2. ⭐ Starred [spron-in/blog-data](https://github.com/spron-in/blog-data)<br>
+3. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+4. ⭐ Starred [Razmoth/MetadataConverter2](https://github.com/Razmoth/MetadataConverter2)<br>
+5. ⭐ Starred [biuuu/star-rail-warp-export](https://github.com/biuuu/star-rail-warp-export)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Profile Stats
