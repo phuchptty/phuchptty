@@ -54,10 +54,10 @@
 ## 🧲 Recent Activities
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
-2. ⭐ Starred [Infisical/infisical](https://github.com/Infisical/infisical)<br>
-3. ⭐ Starred [spron-in/blog-data](https://github.com/spron-in/blog-data)<br>
-4. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
-5. ⭐ Starred [Razmoth/MetadataConverter2](https://github.com/Razmoth/MetadataConverter2)<br>
+2. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+3. ⭐ Starred [Infisical/infisical](https://github.com/Infisical/infisical)<br>
+4. ⭐ Starred [spron-in/blog-data](https://github.com/spron-in/blog-data)<br>
+5. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Profile Stats
