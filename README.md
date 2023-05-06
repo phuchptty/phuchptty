@@ -56,8 +56,8 @@
 1. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
 2. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
 3. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
-4. ⭐ Starred [Infisical/infisical](https://github.com/Infisical/infisical)<br>
-5. ⭐ Starred [spron-in/blog-data](https://github.com/spron-in/blog-data)<br>
+4. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+5. ⭐ Starred [Infisical/infisical](https://github.com/Infisical/infisical)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Profile Stats
