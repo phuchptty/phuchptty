@@ -53,10 +53,10 @@
 
 ## 🧲 Recent Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)<br>
-2. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
-3. ⭐ Starred [crazy-max/docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server)<br>
-4. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+1. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+2. ⭐ Starred [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)<br>
+3. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+4. ⭐ Starred [crazy-max/docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server)<br>
 5. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
 <!--RECENT_ACTIVITY:end-->
 
