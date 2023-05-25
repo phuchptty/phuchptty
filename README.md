@@ -53,11 +53,11 @@
 
 ## 🧲 Recent Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [wagoodman/dive](https://github.com/wagoodman/dive)<br>
-2. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
-3. ⭐ Starred [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)<br>
-4. ⭐ Starred [weaveworks/ignite](https://github.com/weaveworks/ignite)<br>
-5. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+1. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+2. ⭐ Starred [wagoodman/dive](https://github.com/wagoodman/dive)<br>
+3. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+4. ⭐ Starred [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)<br>
+5. ⭐ Starred [weaveworks/ignite](https://github.com/weaveworks/ignite)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Profile Stats
