@@ -56,8 +56,8 @@
 1. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
 2. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
 3. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
-4. ⭐ Starred [YuehaiTeam/cocogoat](https://github.com/YuehaiTeam/cocogoat)<br>
-5. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+4. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+5. ⭐ Starred [YuehaiTeam/cocogoat](https://github.com/YuehaiTeam/cocogoat)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Profile Stats
