@@ -53,8 +53,8 @@
 
 ## 🧲 Recent Activities
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#8531](https://github.com/Kas-tle/java2bedrock.sh/issues/8531) in [Kas-tle/java2bedrock.sh](https://github.com/Kas-tle/java2bedrock.sh)<br>
-2. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+1. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+2. ❗️ Opened issue [#8531](https://github.com/Kas-tle/java2bedrock.sh/issues/8531) in [Kas-tle/java2bedrock.sh](https://github.com/Kas-tle/java2bedrock.sh)<br>
 3. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
 4. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
 5. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
