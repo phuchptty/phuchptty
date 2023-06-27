@@ -68,7 +68,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C386%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C387%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -111,11 +111,11 @@ Sunday                   625 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               10 hrs 43 mins      ███████████░░░░░░░░░░░░░░   45.09 % 
-Vue.js                   4 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
-YAML                     3 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-JavaScript               1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
-Bash                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+TypeScript               8 hrs 34 mins       ███████████░░░░░░░░░░░░░░   45.56 % 
+YAML                     3 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Vue.js                   2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+JavaScript               1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+mcfunction               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -135,7 +135,7 @@ Lua                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/phuchptty/phuchptty/master/assets/bar_graph.png)
 
 
- Last Updated on 26/06/2023 18:44:40 UTC
+ Last Updated on 27/06/2023 18:43:21 UTC
 <!--END_SECTION:waka-->
 
 <br>
