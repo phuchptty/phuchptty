@@ -54,10 +54,10 @@
 ## 🧲 Recent Activities
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
-2. ⭐ Starred [bitcookies/winrar-keygen](https://github.com/bitcookies/winrar-keygen)<br>
-3. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+2. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+3. ⭐ Starred [bitcookies/winrar-keygen](https://github.com/bitcookies/winrar-keygen)<br>
 4. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
-5. ⭐ Starred [novnc/websockify](https://github.com/novnc/websockify)<br>
+5. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Profile Stats
