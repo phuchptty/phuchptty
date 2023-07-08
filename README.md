@@ -53,11 +53,11 @@
 
 ## 🧲 Recent Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Yelp/dumb-init](https://github.com/Yelp/dumb-init)<br>
-2. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+1. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+2. ⭐ Starred [Yelp/dumb-init](https://github.com/Yelp/dumb-init)<br>
 3. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
-4. ⭐ Starred [bitcookies/winrar-keygen](https://github.com/bitcookies/winrar-keygen)<br>
-5. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+4. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+5. ⭐ Starred [bitcookies/winrar-keygen](https://github.com/bitcookies/winrar-keygen)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Profile Stats
