@@ -54,10 +54,10 @@
 ## 🧲 Recent Activities
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
-2. ⭐ Starred [StanGirard/quivr](https://github.com/StanGirard/quivr)<br>
-3. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
-4. ⭐ Starred [samdenty/console-feed](https://github.com/samdenty/console-feed)<br>
-5. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+2. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+3. ⭐ Starred [StanGirard/quivr](https://github.com/StanGirard/quivr)<br>
+4. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+5. ⭐ Starred [samdenty/console-feed](https://github.com/samdenty/console-feed)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Profile Stats
