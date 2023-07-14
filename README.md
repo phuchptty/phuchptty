@@ -53,9 +53,9 @@
 
 ## 🧲 Recent Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch)<br>
-2. ⭐ Starred [erebe/wstunnel](https://github.com/erebe/wstunnel)<br>
-3. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+1. ❗️ Opened issue [#23](https://github.com/Val-istar-Guo/rehype-prism/issues/23) in [Val-istar-Guo/rehype-prism](https://github.com/Val-istar-Guo/rehype-prism)<br>
+2. ⭐ Starred [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch)<br>
+3. ⭐ Starred [erebe/wstunnel](https://github.com/erebe/wstunnel)<br>
 4. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
 5. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
 <!--RECENT_ACTIVITY:end-->
