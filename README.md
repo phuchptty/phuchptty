@@ -53,11 +53,11 @@
 
 ## 🧲 Recent Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [erebe/wstunnel](https://github.com/erebe/wstunnel)<br>
-2. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+1. ⭐ Starred [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch)<br>
+2. ⭐ Starred [erebe/wstunnel](https://github.com/erebe/wstunnel)<br>
 3. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
 4. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
-5. ⭐ Starred [StanGirard/quivr](https://github.com/StanGirard/quivr)<br>
+5. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Profile Stats
