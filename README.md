@@ -54,10 +54,10 @@
 ## 🧲 Recent Activities
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
-2. ⭐ Starred [VinAIResearch/PhoBERT](https://github.com/VinAIResearch/PhoBERT)<br>
-3. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+2. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+3. ⭐ Starred [VinAIResearch/PhoBERT](https://github.com/VinAIResearch/PhoBERT)<br>
 4. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
-5. ❗️ Opened issue [#23](https://github.com/Val-istar-Guo/rehype-prism/issues/23) in [Val-istar-Guo/rehype-prism](https://github.com/Val-istar-Guo/rehype-prism)<br>
+5. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Profile Stats
