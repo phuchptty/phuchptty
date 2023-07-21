@@ -56,8 +56,8 @@
 1. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
 2. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
 3. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
-4. ✔️ Closed issue [#23](https://github.com/Val-istar-Guo/rehype-prism/issues/23) in [Val-istar-Guo/rehype-prism](https://github.com/Val-istar-Guo/rehype-prism)<br>
-5. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+4. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+5. ✔️ Closed issue [#23](https://github.com/Val-istar-Guo/rehype-prism/issues/23) in [Val-istar-Guo/rehype-prism](https://github.com/Val-istar-Guo/rehype-prism)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Profile Stats
