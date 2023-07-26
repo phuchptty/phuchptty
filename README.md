@@ -55,9 +55,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
 2. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
-3. ⭐ Starred [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)<br>
-4. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
-5. ⭐ Starred [expo/snack](https://github.com/expo/snack)<br>
+3. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
+4. ⭐ Starred [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)<br>
+5. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Profile Stats
