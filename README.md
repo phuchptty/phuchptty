@@ -51,97 +51,9 @@
 <br><br>-->
 <p align="left"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="c" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" alt="electron" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" alt="javascript" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="php" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40"/> <img src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png" alt="vuetify" width="40" height="40"/></p>
 
-## 🧲 Recent Activities
-<!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [w-okada/voice-changer](https://github.com/w-okada/voice-changer)<br>
-2. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
-3. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
-4. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
-5. ⬆️ Pushed 1 commit(s) to [phuchptty/phuchptty](https://github.com/phuchptty/phuchptty)<br>
-<!--RECENT_ACTIVITY:end-->
-
 ## 📊 Profile Stats
 <p>
 	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuchptty&layout=compact&hide=html&theme=tokyonight&show_icons=true" alt="phuchptty" />
 
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phuchptty&theme=tokyonight&show_icons=true" alt="phuchptty" />
 </p>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C554%20hrs%2012%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 193.7 kB Used in GitHub's Storage 
- > 
-> 🏆 891 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 62 Public Repositories 
- > 
-> 🔑 30 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                367 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-🌆 Daytime                1587 commits        ████████░░░░░░░░░░░░░░░░░   31.43 % 
-🌃 Evening                1121 commits        ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
-🌙 Night                  1974 commits        ██████████░░░░░░░░░░░░░░░   39.10 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   771 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-Tuesday                  839 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
-Wednesday                697 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-Thursday                 817 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-Friday                   586 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-Saturday                 594 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Sunday                   745 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-TypeScript               10 hrs 24 mins      ████████████░░░░░░░░░░░░░   48.07 % 
-Vue.js                   8 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   37.11 % 
-JSON                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-YAML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-.env file                22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               35 repos            ███████░░░░░░░░░░░░░░░░░░   29.41 % 
-Vue                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-C                        4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-C++                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/phuchptty/phuchptty/master/assets/bar_graph.png)
-
-
- Last Updated on 02/08/2023 18:39:29 UTC
-<!--END_SECTION:waka-->
-
-<br>
-
-## 💖 Support
-- <a href="https://paypal.me/phuchptty" target="_blank"><img src="https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white" title="Paypal" alt="Paypal"/></a>
-- <a href="https://www.buymeacoffee.com/phuchptty" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 180px !important;" ></a>
-
-**Donation won't be refundable. Please think twice before do. Thank you 💘**
