@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://danghoangphuc.com" target="_blank">Lucas</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://bento.me/phuchptty" target="_blank">Lucas</a></h1>
 
 <p align="center">
 	<a href="https://discordapp.com/users/337843920966909953" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="phuchptty" height="30" width="30" /></a>
